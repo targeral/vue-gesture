@@ -1,0 +1,23 @@
+{
+  "name": "euv-gesture",
+  "version": "0.0.1",
+  "description": "gesture for vue component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/vue-gesture.git"
+  },
+  "keywords": [
+    "gesture",
+    "vue"
+  ],
+  "author": "targeral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targeral/vue-gesture/issues"
+  },
+  "homepage": "https://github.com/targeral/vue-gesture#readme"
+}
