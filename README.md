@@ -348,10 +348,3 @@ export interface IGestureStauts {
     rotation?: number; // Rotation (in deg) that has been done when multi-touch. 0 on a single touch.
 };
 ```
-
-## Development
-
-```
-npm install
-npm start
-```
